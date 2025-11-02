@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rodinghanem
 - 👀 I’m interested in ML&AI
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Computer Vision
 - 📫 How to reach me rodin.ghanem@gmail.com
 
